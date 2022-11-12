@@ -18,7 +18,7 @@ display_width=800
 display_height=600
 pause=False
 gamedisplays=pygame.display.set_mode((display_width,display_height))
-pygame.display.set_caption("TraffIc RIder")
+pygame.display.set_caption("TraffIc Rider")
 clock=pygame.time.Clock()
 carimg=pygame.image.load('Vehicles/car1.jpg')
 backgroundpic=pygame.image.load("Background images/download12.jpg")
